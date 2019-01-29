@@ -1,6 +1,6 @@
 let model;
 
-const modelURL = 'http://localhost:5000/model';
+const modelURL = 'https://indra1997.github.io/keras-/';
 
 const preview = document.getElementById("preview");
 const predictButton = document.getElementById("predict");
